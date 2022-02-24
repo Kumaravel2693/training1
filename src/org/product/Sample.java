@@ -5,6 +5,10 @@ public class Sample {
 		System.out.println("parent");
 
 	}
+	public static void main(String[] args) {
+		Sample s=new Sample();
+		s.a1();
+	}
   }
 		
 
